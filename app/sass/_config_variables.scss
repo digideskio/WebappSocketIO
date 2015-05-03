@@ -1,0 +1,27 @@
+$color_white: 				#fff;
+$color_black: 				#000;
+
+$color_red_regular: 	#752D26;
+$color_red_light: 		#A53B38;
+$color_red_lighter: 	#D84C4C;
+$color_red_dark: 			#3F1616;
+$color_red_darker: 		#260D0D;
+
+$color_gray_regular: 	#f6f8f8;
+$color_gray_light: 		#dee5e7;
+$color_gray_dark: 		#58666e;
+$color_gray_darker: 	#363f44;
+
+$color_blue_regular: 	#23b7e5;
+$color_blue_lighter: 	#f0f3f4;
+
+$radius_regular: 4px;
+
+body{
+	margin: 0;
+	padding: 0;
+	color: $color_gray_dark;
+	background-color: $color_blue_lighter;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+}
